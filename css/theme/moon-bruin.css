@@ -35,10 +35,11 @@ body {
   background: #d33682;
   text-shadow: none; }
 
-.reveal .slides > section,
-.reveal .slides > section > section {
+.reveal .slides section,
+.reveal .slides section > section {
   line-height: 1.3;
   font-weight: inherit; }
+
 
 /*********************************************
  * HEADERS
